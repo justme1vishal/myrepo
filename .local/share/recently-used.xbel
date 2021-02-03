@@ -495,4 +495,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/ttn/Pictures/Screenshot%20from%202021-02-03%2012-38-32.png" added="2021-02-03T07:08:32Z" modified="2021-02-03T07:08:32Z" visited="2021-02-03T07:08:32.539902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2021-02-03T07:08:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
